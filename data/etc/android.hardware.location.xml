@@ -18,5 +18,4 @@
      that network location is required for all devices. -->
 <permissions>
     <feature name="android.hardware.location" />
-    <feature name="android.hardware.location.network" />
 </permissions>
